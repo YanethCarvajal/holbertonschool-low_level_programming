@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- * puts_half - function that prints half of a string,
- * followed by a new line
+ * puts_half - function that prints half of a string
  * Return: The second half of the chain.
  * @str: array
  */
@@ -27,6 +26,6 @@ void puts_half(char *str)
 	{
 		_putchar(str[i]);
 	}
-	_putchar('\0');
+	_putchar('\n');
 
 }
