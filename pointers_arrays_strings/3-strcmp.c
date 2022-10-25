@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * -strcmp - function that compares two strings.
+ * _strcmp - function that compares two strings.
  * Return: s1 - s2
  * @s1: pointer
  * @s2: pointer
